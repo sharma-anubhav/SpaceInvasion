@@ -1,3 +1,3 @@
 # SpaceInvasion
-This contains the Pycharm directory to the project
-you can open it using pycharm by placing it inside the pycharm projects folder or you can install pygames library and move the required pictures to the corresponding directory 
+This is a Pycharm project
+you can open it by first installing  pygames library to a new project and move the given files into the project directory.
